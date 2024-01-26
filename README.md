@@ -4,4 +4,4 @@ In this repository, you will find questions asked in different assessments to fr
 
 Please note that these questions should only be practiced to get the idea of the assessment and not completely rely on them. Star this repo so you get the latest updates about these assessments questions.
 
-You are welcome to contribute to this repository so others can get benefit out of it. Simple clone this repo, add your resources and raise a PR request.
+You are welcome to contribute to this repository so others can get benefit out of it. Simple clone this repo, add your resources and raise a PR request. The resources should be from this year's assessments and interviews only.
